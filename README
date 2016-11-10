@@ -1,1 +1,10 @@
-Hello World!
+#CalcRPG
+
+Hello!  I made this Calculator RPG back in 2012 using the TI-84 programming tools.  
+You can upload it to any TI-84 through the use of a USB-A cable and play it by launching ARPGOPEN.
+
+Unfortunately, due to the way GOTOs work in this language it does eventually crash due to memory leaks, but it should be fine for ~40 min of gameplay.
+
+Enjoy!
+
+Jon Ting
